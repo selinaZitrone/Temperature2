@@ -1,0 +1,18 @@
+---
+title: "Temperature analysis"
+author: "Selina Baldauf"
+date: "10/8/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(Temperature2)
+```
+
+# Temperature analysis
+
+```{r}
+printMean(dummyTempdata$temp)
+```
+
