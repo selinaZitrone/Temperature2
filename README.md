@@ -2,6 +2,7 @@
 # Temperature2
 
 <!-- badges: start -->
+[![R build status](https://github.com/selinaZitrone/Temperature2/workflows/R-CMD-check/badge.svg)](https://github.com/selinaZitrone/Temperature2/actions)
 <!-- badges: end -->
 
 The goal of Temperature2 is to ...
